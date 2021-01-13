@@ -1,4 +1,2 @@
-
-
-Url:https://syahinhussein.github.io/desmoto-assignment/. 
+https://syahinhussein.github.io/desmoto-assignment/. 
 
